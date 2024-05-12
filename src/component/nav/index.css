@@ -1,0 +1,16 @@
+.navItem {
+    text-decoration: none;
+    color: gray;
+    padding:20px ;
+  }
+  
+  .navItem.active {
+    text-decoration: underline;
+    color: red;
+  }
+  
+  .navItem.pending {
+    color: aqua;
+    opacity: 0.7;
+  }
+  
